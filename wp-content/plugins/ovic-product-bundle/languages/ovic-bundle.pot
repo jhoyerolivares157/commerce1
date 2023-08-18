@@ -1,0 +1,253 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovic: Product Bundle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-29 03:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#. %s: number
+#: includes/product-bundle.php:452
+#, php-format
+msgid "%s items"
+msgstr ""
+
+#: includes/product-bundle.php:761
+#, php-format
+msgid "(bundled in %s)"
+msgstr ""
+
+#: includes/product-bundle.php:982
+msgid "After text"
+msgstr ""
+
+#: includes/product-bundle.php:973
+msgid "Before text"
+msgstr ""
+
+#: includes/product-bundle.php:291
+msgid "Bundle price text"
+msgstr ""
+
+#: includes/product-bundle.php:292
+msgid "Bundle price:"
+msgstr ""
+
+#: includes/product-bundle.php:299
+msgid "Bundle save price text"
+msgstr ""
+
+#: includes/product-bundle.php:969
+msgid "Buyer can change the quantity of bundled products?"
+msgstr ""
+
+#: includes/product-bundle.php:342
+msgid "Count"
+msgstr ""
+
+#: includes/product-bundle.php:1165
+msgid "Discount"
+msgstr ""
+
+#: includes/product-bundle.php:203
+msgid "General"
+msgstr ""
+
+#: includes/product-bundle.php:267
+msgid "Hide products in the bundle on cart & checkout page"
+msgstr ""
+
+#: includes/product-bundle.php:279
+msgid "Hide products in the bundle on mini-cart"
+msgstr ""
+
+#: includes/product-bundle.php:285
+msgid "Hide products in the bundle, just show the main product on mini-cart."
+msgstr ""
+
+#: includes/product-bundle.php:273
+msgid ""
+"Hide products in the bundle, just show the main product on the cart & "
+"checkout page."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://kutethemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/kutethemes"
+msgstr ""
+
+#: includes/product-bundle.php:256
+msgid "Link to bundled product"
+msgstr ""
+
+#: includes/product-bundle.php:336
+msgid "Name"
+msgstr ""
+
+#: includes/product-bundle.php:214 includes/product-bundle.php:225
+#: includes/product-bundle.php:238 includes/product-bundle.php:249
+#: includes/product-bundle.php:260 includes/product-bundle.php:271
+#: includes/product-bundle.php:283
+msgid "No"
+msgstr ""
+
+#: includes/product-bundle.php:871
+#, php-format
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: includes/product-bundle.php:482
+msgid "of"
+msgstr ""
+
+#: includes/product-bundle.php:966
+msgid "Optional products"
+msgstr ""
+
+#: includes/product-bundle.php:179
+msgid "Ovic Product Bundles"
+msgstr ""
+
+#: addon.php:76
+msgid "Ovic Product Bundles require WooCommerce version 3.0.0 or greater."
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovic Team"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovic: Product Bundle"
+msgstr ""
+
+#: includes/product-bundle.php:1124
+msgid ""
+"Please choose at least one product before adding this bundle to the cart."
+msgstr ""
+
+#: includes/product-bundle.php:1123
+msgid ""
+"Please select some product options before adding this bundle to the cart."
+msgstr ""
+
+#: includes/product-bundle.php:235 includes/product-bundle.php:1162
+msgid "Price"
+msgstr ""
+
+#: includes/product-bundle.php:236
+msgid "Price HTML"
+msgstr ""
+
+#: includes/product-bundle.php:883
+msgid "Product Bundle"
+msgstr ""
+
+#: includes/product-bundle.php:1157
+msgid "Products"
+msgstr ""
+
+#: includes/product-bundle.php:1159
+msgid "Qty"
+msgstr ""
+
+#: includes/product-bundle.php:960
+msgid "Regular price"
+msgstr ""
+
+#: includes/product-bundle.php:901
+msgid "Search"
+msgstr ""
+
+#: includes/product-bundle.php:306
+msgid "Search limit"
+msgstr ""
+
+#: includes/product-bundle.php:910
+msgid "searching..."
+msgstr ""
+
+#: includes/product-bundle.php:919
+msgid "Selected"
+msgstr ""
+
+#: includes/product-bundle.php:904
+msgid "settings"
+msgstr ""
+
+#: includes/product-bundle.php:232
+msgid "Show price"
+msgstr ""
+
+#: includes/product-bundle.php:245
+msgid "Show price discount"
+msgstr ""
+
+#: includes/product-bundle.php:221
+msgid "Show quantity"
+msgstr ""
+
+#: includes/product-bundle.php:210
+msgid "Show thumbnail"
+msgstr ""
+
+#: includes/product-bundle.php:339
+msgid "Slug"
+msgstr ""
+
+#: includes/product-bundle.php:237
+msgid "Subtotal"
+msgstr ""
+
+#. Description of the plugin
+msgid "Support WooCommerce Product Bundle."
+msgstr ""
+
+#: includes/product-bundle.php:986
+msgid "The text after bundled products"
+msgstr ""
+
+#: includes/product-bundle.php:977
+msgid "The text before bundled products"
+msgstr ""
+
+#: includes/product-bundle.php:293
+msgid "The text before price when choosing variation in the bundle."
+msgstr ""
+
+#: includes/product-bundle.php:301
+msgid "The text before price you saved in the bundle."
+msgstr ""
+
+#: includes/product-bundle.php:332
+msgid "Thumb"
+msgstr ""
+
+#: includes/product-bundle.php:913
+msgid "Type any keyword to search"
+msgstr ""
+
+#: includes/product-bundle.php:316
+msgid "Update Options"
+msgstr ""
+
+#: includes/product-bundle.php:213 includes/product-bundle.php:224
+#: includes/product-bundle.php:248 includes/product-bundle.php:259
+#: includes/product-bundle.php:270 includes/product-bundle.php:282
+msgid "Yes"
+msgstr ""
+
+#: includes/product-bundle.php:300
+msgid "You save:"
+msgstr ""
